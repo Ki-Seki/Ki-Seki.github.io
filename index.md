@@ -5,7 +5,7 @@ title: Shichao Song (宋世超)
 <br><br>
 
 <p style="font-family: 'KaiTi'; font-size: 2em;">
-        <big><strong>Shichao Song (宋世超)</strong></big>
+    <big><strong>Shichao Song (宋世超)</strong></big>
 </p><br>
 
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
@@ -70,17 +70,23 @@ title: Shichao Song (宋世超)
 
 ## Selected Awards and Honors
 
-- **Ph.D. Candidate Academic Second-Class Scholarship**, Renmin University of China, 2023.11
+- **Ph.D. Candidate Academic Second-Class Scholarship**
+    Renmin University of China, 2023.11
 
-- **National Encouragement Scholarship** (Rank: Top 5%), Henan University of Economics and Law, 2022.11
+- **National Encouragement Scholarship** (Rank: Top 5%)
+    Henan University of Economics and Law, 2022.11
 
-- **National Second Prize in the China Undergraduate Mathematical Contest in Modeling**, China Society for Industrial and Applied Mathematics, 2021.11
+- **National Second Prize in the China Undergraduate Mathematical Contest in Modeling**
+    China Society for Industrial and Applied Mathematics, 2021.11
 
-- **Scored 591/710 in the College English Test Band 6 (CET-6)**, 2021.09
+- **Scored 591/710 in the College English Test Band 6 (CET-6)**
+    Ministry of Education of the People's Republic of China, 2021.09
 
-- **Scored 607/710 in the College English Test Band 4 (CET-4)**, 2020.12
+- **Scored 607/710 in the College English Test Band 4 (CET-4)**
+    Ministry of Education of the People's Republic of China, 2020.12
 
-- **National Encouragement Scholarship** (Rank: Top 5%), Henan University of Economics and Law, 2020.11
+- **National Encouragement Scholarship** (Rank: Top 5%)
+    Henan University of Economics and Law, 2020.11
 
 ------
 
