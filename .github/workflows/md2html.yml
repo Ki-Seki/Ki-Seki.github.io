@@ -1,0 +1,33 @@
+name: Convert MD to HTML and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install pandoc
+      run: |
+        sudo apt-get install pandoc
+
+    - name: Convert MD to HTML
+      run: |
+        pandoc index.md -o index.html
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./  # Directory where your HTML files are located
+        publish_branch: gh-pages  # The branch you want to push to
