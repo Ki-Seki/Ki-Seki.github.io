@@ -12,7 +12,7 @@
 
 ```bash
 sudo apt install pandoc
-pandoc index.md -o index.html --template template/template.html --css template/template.css --self-contained --toc --toc-depth 2
+pandoc index.md -o index.html --template template/template.html --css template/template.css --self-contained
 ```
 
 ## Copyright
