@@ -70,7 +70,7 @@ title: Shichao Song (宋世超)
 
 ## Selected Awards and Honors
 
-- **Ph.D. Candidate Academic Second-Class Scholarship**  
+- **Second-Class Academic Scholarship for Doctoral Students**  
     Renmin University of China, 2023.11
 
 - **National Encouragement Scholarship** (Rank: Top 5%)  
