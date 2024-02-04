@@ -4,7 +4,7 @@ title: Shichao Song (宋世超)
 
 <br><br>
 
-<p style="font-family: 'Times New Roman', KaiTi; font-size: 2em;">
+<p style="font-family: 'Times New Roman', KaiTi; font-size: 1.8em;">
     <big><strong>Shichao Song (宋世超)</strong></big>
 </p><br>
 
@@ -92,10 +92,8 @@ title: Shichao Song (宋世超)
 
 ------
 
-<small>
-<footer align='center'>
-    Special thanks to Tony Blundell for the <a href='https://github.com/tonyblundell/pandoc-bootstrap-template'>pandoc-bootstrap-template</a>.<br>
+<footer style='text-align:center; font-size:0.85em; line-height: 1.35em'>
+    Special thanks to Tony Blundell for the <a href='https://github.com/tonyblundell/pandoc-bootstrap-template'>template</a>.<br>
     &copy; 2024 Shichao Song. All rights reserved.<br>
-    Last updated: 2024.02
+    Last update: 2024.02.
 </footer>
-</small>
