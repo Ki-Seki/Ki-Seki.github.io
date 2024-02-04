@@ -2,19 +2,19 @@
 title: Shichao Song (宋世超)
 ---
 
-<br><br>
+<br>
 
-<p style="font-family: 'Times New Roman', KaiTi; font-size: 1.8em;">
+<p style="font-family: 'Times New Roman', KaiTi; font-size: 1.8em; line-height: 1.95em">
     <big><strong>Shichao Song (宋世超)</strong></big>
 </p><br>
 
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
 
-<p style="text-indent: 2em;">
+<p>
     I am Shichao Song, a doctoral candidate at Renmin University of China. I am currently focusing on research in the direction of large language models (LLMs). In the past, I have conducted research on route optimization, recommender systems (RSs), graph neural networks (GNNs), etc.
 </p>
 
-<p align='center'> Find me: 
+<p> Find me: 
     <a href='mailto:song.shichao@outlook.com'>E-mail</a> /
     <a href='https://scholar.google.com/citations?user=91cfp3wAAAAJ'>Google Scholar</a> /
     <a href='https://github.com/Ki-Seki'>GitHub</a> /
