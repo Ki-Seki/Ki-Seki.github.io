@@ -32,10 +32,12 @@ title: Shichao Song (宋世超)
 
 - **Renmin University of China**  
     Ph.D. in Computer Application Technology  
+    Supervised by Prof. Xun Liang  
     2023.09 - Now  
 
 - **Henan University of Economics and Law**  
     Bachelor in E-commerce  
+    Supervised by Prof. Yong Pan  
     GPA: 4.05/5.0, Top 2%  
     2019.09 - 2023.06  
 
@@ -54,16 +56,16 @@ title: Shichao Song (宋世超)
     [GitHub](https://github.com/IAAR-Shanghai/UHGEval) /
     [Dataset](https://github.com/IAAR-Shanghai/UHGEval/blob/main/data/Xinhua/XinhuaHallucinations.json)
 
-- **Research on Cold-Start of Product Recommendation with Graph Neural Network**  
+- **Research on Cold-Start of Product Recommendation with Graph Neural Network (In Chinese, 基于图神经网络的商品推荐冷启动研究)**  
     **Shichao Song**  
-    *Undergraduate thesis*, 2023.
+    *Undergraduate thesis*, 2023. Outstanding Undergraduate Thesis. 
     [GitHub](https://github.com/Ki-Seki/KGCN-pytorch-updated/tree/ugt-only)
 
-- **图元学习研究进展 (Advances in Graph Meta-Learning)**  
+- **Advances in Graph Meta-Learning (In Chinese, 图元学习研究进展)**  
     Simin Niu, Xun Liang$^†$, Chen Feng, Sensen Zhang, **Shichao Song**, Hanyu Wang  
     *Chinese Journal of Computers* (submitted), 2023.
 
-- **Optimization of Emergency Supplies Distribution Across Risk Areas During the Pandemic**  
+- **Optimization of Emergency Supplies Distribution Across Risk Areas During the Pandemic (In Chinese, 疫情下的应急物资跨风险区域配送优化)**  
     Yongzhe Gao, **Shichao Song**, Qingchen Yu, Xiaodong Shi$^†$  
     *Unpublished*, 2022. 
     [GitHub](https://github.com/Ki-Seki/MOPSO-for-Distribution)
