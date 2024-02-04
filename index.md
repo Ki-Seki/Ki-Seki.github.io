@@ -5,7 +5,8 @@ title: Shichao Song (宋世超)
 <br>
 
 <p style="font-family: 'Times New Roman', KaiTi; font-size: 1.8em; line-height: 1.95em">
-    <big><strong>Shichao Song (宋世超)</strong></big>
+    <big><strong>Shichao Song</strong></big><br>
+    <big><strong>宋世超</strong></big>
 </p><br>
 
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
