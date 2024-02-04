@@ -4,7 +4,7 @@ title: Shichao Song (宋世超)
 
 <br><br>
 
-<p style="font-family: 'KaiTi'; font-size: 2em;">
+<p style="font-family: 'Times New Roman', KaiTi; font-size: 2em;">
     <big><strong>Shichao Song (宋世超)</strong></big>
 </p><br>
 
