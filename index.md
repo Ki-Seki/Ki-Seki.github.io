@@ -96,6 +96,6 @@ title: Shichao Song (宋世超)
 <footer style='text-align:center; font-size:0.85em; line-height: 1.35em'>
     Special thanks to Tony Blundell for the <a href='https://github.com/tonyblundell/pandoc-bootstrap-template'>template</a>.<br>
     &copy; 2024 Shichao Song. All rights reserved.<br>
-    Last update: 2024.02.
+    Last update: 2024.02 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/blob/master/index.md'>Edit this page</a>.
 </footer>
 <br>
