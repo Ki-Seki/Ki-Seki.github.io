@@ -44,6 +44,12 @@ title: Shichao Song (宋世超)
 
 ## Researches
 
+- **Controlled Text Generation for Large Language Model with Dynamic Attribute Graphs**  
+    Xun Liang$^*$, Hanyu Wang$^*$, **Shichao Song$^*$**, Mengting Hu, Xunzhi Wang, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang  
+    *arXiv*, 2024. 
+    [arXiv](https://arxiv.org/abs/2402.11218) /
+    [GitHub](https://github.com/IAAR-Shanghai/DATG)
+
 - **Grimoire is All You Need for Enhancing Large Language Models**  
     Ding Chen$^*$, **Shichao Song$^*$**, Qingchen Yu, Zhiyu Li$^†$, Wenjin Wang, Feiyu Xiong, Bo Tang  
     *arXiv*, 2024. 
@@ -55,7 +61,8 @@ title: Shichao Song (宋世超)
     *arXiv*, 2023. 
     [arXiv](https://arxiv.org/abs/2311.15296) /
     [GitHub](https://github.com/IAAR-Shanghai/UHGEval) /
-    [Dataset](https://github.com/IAAR-Shanghai/UHGEval/blob/main/data/Xinhua/XinhuaHallucinations.json)
+    [Dataset](https://github.com/IAAR-Shanghai/UHGEval/blob/main/data/Xinhua/XinhuaHallucinations.json) /
+    [Dataset Creation](https://github.com/IAAR-Shanghai/UHGEval-dataset)
 
 - **Research on Cold-Start of Product Recommendation with Graph Neural Network (In Chinese, 基于图神经网络的商品推荐冷启动研究)**  
     **Shichao Song**  
