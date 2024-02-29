@@ -12,12 +12,13 @@ title: Shichao Song (宋世超)
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
 
 <p>
-    I am Shichao Song, a doctoral candidate at Renmin University of China. I am currently focusing on large language models (LLMs). In the past, I have conducted research on route optimization, recommender systems (RSs), graph neural networks (GNNs), etc.
+    I am Shichao Song, a PhD student at Renmin University of China. I am currently focusing on large language models (LLMs). In the past, I have conducted research on route optimization, recommender systems (RSs), graph neural networks (GNNs), etc.
 </p>
 
 <p> Find me: 
     <a href='mailto:song.shichao@outlook.com'>E-mail</a> /
     <a href='https://scholar.google.com/citations?user=91cfp3wAAAAJ'>Google Scholar</a> /
+    <a href='https://www.prophy.science/author/100188805/Shichao-Song'>Prophy</a> /
     <a href='https://github.com/Ki-Seki'>GitHub</a> /
     <a href='https://gitee.com/ki_seki'>Gitee</a> /
     <a href='https://twitter.com/Ki_Seki_here'>Twitter</a> /
