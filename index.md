@@ -12,7 +12,7 @@ title: Shichao Song (宋世超)
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
 
 <p>
-    I am Shichao Song, a PhD student at Renmin University of China. I am currently focusing on large language models (LLMs). In the past, I have conducted research on route optimization, recommender systems (RSs), graph neural networks (GNNs), etc.
+I am Shichao Song, a PhD student at Renmin University of China. My current research focuses on large language models (LLMs), particularly in evaluating and supervising language models that surpass human intelligence. Additionally, I have a keen interest in addressing the hallucination problems in the practical implementation of large language models. In the past, my research has spanned topics such as route optimization, recommender systems (RSs), and graph neural networks (GNNs).
 </p>
 
 <p> Find me: 
@@ -24,7 +24,6 @@ title: Shichao Song (宋世超)
     <a href='https://twitter.com/Ki_Seki_here'>Twitter</a> /
     <a href='https://www.xiaohongshu.com/user/profile/5b93c22a2169380001d3e50e'>Red</a> /
     <a href='https://ki-seki.github.io'>Website</a> /
-    <a href='http://llms.cool'>Cool LLMs</a> /
     <a href='https://ki_seki.gitee.io/us'>💘</a>
 </p>
 
@@ -39,7 +38,7 @@ title: Shichao Song (宋世超)
 
 - **Henan University of Economics and Law**  
     Bachelor in E-commerce  
-    Supervised by Prof. Yong Pan  
+    Supervised by Prof. Yong Pan and Prof. Xiaodong Shi  
     GPA: 4.05/5.0, Top 2%  
     2019.09 - 2023.06  
 
@@ -103,7 +102,7 @@ title: Shichao Song (宋世超)
 
 <footer style='text-align:center; font-size:0.85em; line-height: 1.35em'>
     Special thanks to Tony Blundell for the <a href='https://github.com/tonyblundell/pandoc-bootstrap-template'>template</a><br>
-    Last update: 2024.02 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/blob/master/index.md'>Edit this page</a><br>
+    Last update: 2024.03 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/blob/master/index.md'>Edit this page</a><br>
     &copy; 2024 Shichao Song
 </footer>
 <br>
