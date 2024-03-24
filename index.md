@@ -12,7 +12,7 @@ title: Shichao Song (宋世超)
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
 
 <p>
-I am Shichao Song, a PhD student at Renmin University of China. My current research focuses on large language models (LLMs), particularly in evaluating and supervising language models that surpass human intelligence. Additionally, I have a keen interest in addressing the hallucination problems in the practical implementation of large language models. In the past, my research has spanned topics such as route optimization, recommender systems (RSs), and graph neural networks (GNNs).
+I am Shichao Song, a PhD student at Renmin University of China. My current research focuses on large language models (LLMs), particularly on model evaluation and hallucination alleviation. In the past, my research has spanned topics such as route optimization, recommender systems (RSs), and graph neural networks (GNNs).
 </p>
 
 <p> Find me: 
