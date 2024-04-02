@@ -78,6 +78,9 @@ I am Shichao Song, a PhD student at Renmin University of China. My current resea
     *Unpublished*, 2022. 
     [GitHub](https://github.com/Ki-Seki/MOPSO-for-Distribution)
 
+$^*$ Contributed Equally  
+$^†$ Corresponding Author
+
 ## Selected Awards and Honors
 
 - **Second-Class Academic Scholarship for Doctoral Students**  
@@ -102,7 +105,7 @@ I am Shichao Song, a PhD student at Renmin University of China. My current resea
 
 <footer style='text-align:center; font-size:0.85em; line-height: 1.35em'>
     Special thanks to Tony Blundell for the <a href='https://github.com/tonyblundell/pandoc-bootstrap-template'>template</a><br>
-    Last update: 2024.03 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/blob/master/index.md'>Edit this page</a><br>
+    Last update: 2024.04 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
     &copy; 2024 Shichao Song
 </footer>
 <br>
