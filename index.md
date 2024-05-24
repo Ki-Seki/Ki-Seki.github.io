@@ -44,6 +44,13 @@ I am Shichao Song, a PhD student at Renmin University of China. My current resea
 
 ## Researches
 
+- **xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**  
+    Qingchen Yu$^*$, Zifan Zheng$^*$, **Shichao Song$^*$**, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang, Ding Chen  
+    *arXiv*, 2024.
+    [arXiv](https://arxiv.org/abs/2405.11874) /
+    [GitHub](https://github.com/IAAR-Shanghai/xFinder) /
+    [HuggingFace](https://huggingface.co/collections/IAAR-Shanghai/xfinder-664b7b21e94e9a93f25a8412)
+
 - **Controlled Text Generation for Large Language Model with Dynamic Attribute Graphs**  
     Xun Liang$^*$, Hanyu Wang$^*$, **Shichao Song$^*$**, Mengting Hu, Xunzhi Wang, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang  
     *arXiv*, 2024. 
@@ -57,7 +64,7 @@ I am Shichao Song, a PhD student at Renmin University of China. My current resea
     [GitHub](https://github.com/IAAR-Shanghai/Grimoire)
 
 - **UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**  
-    Xun Liang$^*$, **Shichao Song$^*$**, Simin Niu$^*$, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang, Zhaohui Wy, Dawei He, Peng Cheng, Zhonghao Wang, Haiying Deng  
+    Xun Liang$^*$, **Shichao Song$^*$**, Simin Niu$^*$, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang, Yezhaohui Wang, Dawei He, Peng Cheng, Zhonghao Wang, Haiying Deng  
     *arXiv*, 2023. 
     [arXiv](https://arxiv.org/abs/2311.15296) /
     [GitHub](https://github.com/IAAR-Shanghai/UHGEval) /
@@ -105,7 +112,7 @@ $^†$ Corresponding Author
 
 <footer style='text-align:center; font-size:0.85em; line-height: 1.35em'>
     Special thanks to Tony Blundell for the <a href='https://github.com/tonyblundell/pandoc-bootstrap-template'>template</a><br>
-    Last update: 2024.04 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
-    &copy; 2024 Shichao Song
+    Last update: 2024.05 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
+    &copy; 2023-2024 Shichao Song
 </footer>
 <br>
