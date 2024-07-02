@@ -28,7 +28,7 @@ I am Shichao Song, a PhD student at Renmin University of China. My current resea
 
 ------
 
-## Education
+## <font color="gray">H2</font> Education
 
 - **Renmin University of China**  
     Ph.D. in Computer Application Technology  
@@ -41,12 +41,12 @@ I am Shichao Song, a PhD student at Renmin University of China. My current resea
     GPA: 4.05/5.0, Top 2%  
     2019.09 - 2023.06  
 
-## Researches
+## <font color="gray">H2</font> Researches
 
 $^*$ Contributed Equally  
 $^†$ Corresponding Author
 
-### Peer Reviewed
+### <font color="gray">H3</font> Peer Reviewed
 
 - **UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**  
     Xun Liang$^*$, **Shichao Song$^*$**, Simin Niu$^*$, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang, Yezhaohui Wang, Dawei He, Peng Cheng, Zhonghao Wang, Haiying Deng  
@@ -67,7 +67,7 @@ $^†$ Corresponding Author
     *AAAI*, 2024.
     [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30489)
 
-### Preprints
+### <font color="gray">H3</font> Preprints
 
 - **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
     Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, **Shichao Song**, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong$^†$, Linpeng Tang$^†$, Weinan E$^†$  
@@ -105,7 +105,7 @@ $^†$ Corresponding Author
     [arXiv](https://arxiv.org/abs/2401.03385) /
     [GitHub](https://github.com/IAAR-Shanghai/Grimoire)
 
-### Unpublished
+### <font color="gray">H3</font> Unpublished
 
 - **Research on Cold-Start of Product Recommendation with Graph Neural Network (In Chinese, 基于图神经网络的商品推荐冷启动研究)**  
     **Shichao Song**  
@@ -121,7 +121,7 @@ $^†$ Corresponding Author
     *Unpublished*, 2022.
     [GitHub](https://github.com/Ki-Seki/MOPSO-for-Distribution)
 
-## Selected Awards and Honors
+## <font color="gray">H2</font> Selected Awards and Honors
 
 - **Second-Class Academic Scholarship for Doctoral Students**  
     Renmin University of China, 2023.11
