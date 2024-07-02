@@ -56,11 +56,11 @@ $^†$ Corresponding Author
     [Dataset](https://github.com/IAAR-Shanghai/UHGEval/blob/main/data/Xinhua/XinhuaHallucinations.json) /
     [Dataset Creation](https://github.com/IAAR-Shanghai/UHGEval-dataset)
 
-- **Grimoire is All You Need for Enhancing Large Language Models**  
-    Ding Chen$^*$, **Shichao Song$^*$**, Qingchen Yu, Zhiyu Li$^†$, Wenjin Wang, Feiyu Xiong, Bo Tang  
+- **Controlled Text Generation for Large Language Model with Dynamic Attribute Graphs**  
+    Xun Liang$^*$, Hanyu Wang$^*$, **Shichao Song$^*$**, Mengting Hu, Xunzhi Wang, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang  
     *Findings of ACL*, 2024. 
-    [arXiv](https://arxiv.org/abs/2401.03385) /
-    [GitHub](https://github.com/IAAR-Shanghai/Grimoire)
+    [arXiv](https://arxiv.org/abs/2402.11218) /
+    [GitHub](https://github.com/IAAR-Shanghai/DATG)
 
 - **When Sparse Graph Representation Learning Falls into Domain Shift: Data Augmentation for Cross-Domain Graph Meta-Learning (Student Abstract)**  
     Simin Niu, Xun Liang, Sensen Zhang, **Shichao Song**, Xuan Zhang, Xiaoping Zhou  
@@ -99,11 +99,13 @@ $^†$ Corresponding Author
     *arXiv*, 2024.
     [arXiv](https://arxiv.org/abs/2405.00711)
 
-- **Controlled Text Generation for Large Language Model with Dynamic Attribute Graphs**  
-    Xun Liang$^*$, Hanyu Wang$^*$, **Shichao Song$^*$**, Mengting Hu, Xunzhi Wang, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang  
+- **Grimoire is All You Need for Enhancing Large Language Models**  
+    Ding Chen$^*$, **Shichao Song$^*$**, Qingchen Yu, Zhiyu Li$^†$, Wenjin Wang, Feiyu Xiong, Bo Tang  
     *arXiv*, 2024. 
-    [arXiv](https://arxiv.org/abs/2402.11218) /
-    [GitHub](https://github.com/IAAR-Shanghai/DATG)
+    [arXiv](https://arxiv.org/abs/2401.03385) /
+    [GitHub](https://github.com/IAAR-Shanghai/Grimoire)
+
+### Unpublished
 
 - **Research on Cold-Start of Product Recommendation with Graph Neural Network (In Chinese, 基于图神经网络的商品推荐冷启动研究)**  
     **Shichao Song**  
@@ -112,11 +114,11 @@ $^†$ Corresponding Author
 
 - **Advances in Graph Meta-Learning (In Chinese, 图元学习研究进展)**  
     Simin Niu, Xun Liang$^†$, Chen Feng, Sensen Zhang, **Shichao Song**, Hanyu Wang  
-    *Chinese Journal of Computers* (submitted), 2023.
+    *Unpublished*, 2023.
 
 - **Optimization of Emergency Supplies Distribution Across Risk Areas During the Pandemic (In Chinese, 疫情下的应急物资跨风险区域配送优化)**  
     Yongzhe Gao, **Shichao Song**, Qingchen Yu, Xiaodong Shi$^†$  
-    *Unpublished*, 2022. 
+    *Unpublished*, 2022.
     [GitHub](https://github.com/Ki-Seki/MOPSO-for-Distribution)
 
 ## Selected Awards and Honors
