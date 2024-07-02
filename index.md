@@ -22,7 +22,6 @@ I am Shichao Song, a PhD student at Renmin University of China. My current resea
     <a href='https://www.prophy.science/author/100188805/Shichao-Song'>Prophy</a> /
     <a href='https://github.com/Ki-Seki'>GitHub</a> /
     <a href='https://twitter.com/Ki_Seki_here'>Twitter</a> /
-    <a href='https://ki-seki.github.io'>Website</a> /
     <a href='https://songsc.atomgit.net/us/'>💘</a>
 </p>
 
