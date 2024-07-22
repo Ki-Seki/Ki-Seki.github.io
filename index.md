@@ -12,10 +12,11 @@ title: Shichao Song (宋世超)
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
 
 <p>
-I am Shichao Song, a PhD student at Renmin University of China. My current research focuses on large language models (LLMs), particularly on model evaluation and hallucination alleviation. In the past, my research has spanned topics such as route optimization, recommender systems (RSs), and graph neural networks (GNNs).
+    I am Shichao Song, a second-year PhD student at <a href='https://en.ruc.edu.cn/'>Renmin University of China</a> (RUC), Beijing. I collaborate closely with the Large Language Model Center at the <a href='https://www.iaar.ac.cn/'>Institute for Advanced Algorithms Research</a> (IAAR), Shanghai, particularly with senior researcher Zhiyu Li. My current research focuses on large language models (LLMs), specifically on two aspects: internal consistency mining (refer to <a href='https://arxiv.org/abs/2407.14507'>ICSFSurvey</a>) and reliable evaluation for LLMs (such as <a href='https://arxiv.org/abs/2311.15296'>UHGEval</a> and <a href='https://arxiv.org/abs/2405.11874'>xFinder</a>). Previously, my research has covered topics like route optimization, recommender systems (RSs), and graph neural networks (GNNs).
 </p>
 
-<p> Find me: 
+<p>
+    Find me: 
     <a href='mailto:song.shichao@outlook.com'>E-mail</a> /
     <a href='https://scholar.google.com/citations?user=91cfp3wAAAAJ'>Google Scholar</a> /
     <a href='https://www.semanticscholar.org/author/Shichao-Song/2268434524'>Semantic Scholar</a> /
@@ -67,6 +68,13 @@ $^†$ Corresponding Author
     [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30489)
 
 ### <font color="lightgray">H3</font> Preprints
+
+- **Internal Consistency and Self-Feedback in Large Language Models: A Survey**  
+    Xun Liang$^*$, **Shichao Song$^*$**, Zifan Zheng$^*$, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Feiyu Xiong, Zhiyu Li$^†$  
+    *arXiv*, 2024.
+    [arXiv](https://arxiv.org/abs/2407.14507) /
+    [GitHub](https://github.com/IAAR-Shanghai/ICSFSurvey) /
+    [Paper List](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg)
 
 - **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
     Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, **Shichao Song**, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong$^†$, Linpeng Tang$^†$, Weinan E$^†$  
