@@ -12,7 +12,10 @@ title: Shichao Song (宋世超)
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
 
 <p>
-    I am Shichao Song, a second-year PhD student at <a href='https://en.ruc.edu.cn/'>Renmin University of China</a> (RUC), Beijing. My supervisor is Prof. Xun Liang. I collaborate closely with the Large Language Model Center at the <a href='https://www.iaar.ac.cn/'>Institute for Advanced Algorithms Research</a> (IAAR), Shanghai, particularly with senior researcher Zhiyu Li. My current research focuses on large language models (LLMs), specifically on two aspects: internal consistency mining (refer to <a href='https://arxiv.org/abs/2407.14507'>ICSFSurvey</a>) and reliable evaluation for LLMs (such as <a href='https://arxiv.org/abs/2311.15296'>UHGEval</a> and <a href='https://arxiv.org/abs/2405.11874'>xFinder</a>). Previously, my research has covered topics like route optimization, recommender systems (RSs), and graph neural networks (GNNs).
+    I am Shichao Song, a second-year PhD student at <a href='https://en.ruc.edu.cn/'>Renmin University of China</a>, Beijing. My supervisor is Prof. Xun Liang. I collaborate closely with the Large Language Model Center at the <a href='https://www.iaar.ac.cn/'>Institute for Advanced Algorithms Research</a> (IAAR), Shanghai, particularly with senior researcher Zhiyu Li. 
+</p>
+<p>
+    My current research focuses on large language models, specifically on two aspects: internal consistency mining (refer to <a href='https://arxiv.org/abs/2407.14507'>ICSFSurvey</a>) and reliable evaluation for LLMs (such as <a href='https://arxiv.org/abs/2311.15296'>UHGEval</a> and <a href='https://arxiv.org/abs/2405.11874'>xFinder</a>). Previously, my research has covered topics like route optimization, recommender systems, and graph neural networks.
 </p>
 
 <p>
@@ -65,7 +68,7 @@ $^†$ Corresponding Author
 - **When Sparse Graph Representation Learning Falls into Domain Shift: Data Augmentation for Cross-Domain Graph Meta-Learning (Student Abstract)**  
     Simin Niu, Xun Liang, Sensen Zhang, **Shichao Song**, Xuan Zhang, Xiaoping Zhou  
     *AAAI*, 2024.
-    [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30489)
+    [Conference](https://ojs.aaai.org/index.php/AAAI/article/view/30489)
 
 ### <font color="lightgray">H3</font> Preprints
 
@@ -74,6 +77,7 @@ $^†$ Corresponding Author
     *arXiv*, 2024.
     [arXiv](https://arxiv.org/abs/2407.14507) /
     [GitHub](https://github.com/IAAR-Shanghai/ICSFSurvey) /
+    [HuggingFace](https://huggingface.co/papers/2407.14507) /
     [Paper List](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg)
 
 - **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
@@ -117,6 +121,7 @@ $^†$ Corresponding Author
 - **Research on Cold-Start of Product Recommendation with Graph Neural Network (In Chinese, 基于图神经网络的商品推荐冷启动研究)**  
     **Shichao Song**  
     *Undergraduate thesis*, 2023. Outstanding Undergraduate Thesis. 
+    [PDF](./assets/GNNRSThesis.pdf) /
     [GitHub](https://github.com/Ki-Seki/KGCN-pytorch-updated/tree/ugt-only)
 
 - **Advances in Graph Meta-Learning (In Chinese, 图元学习研究进展)**  
