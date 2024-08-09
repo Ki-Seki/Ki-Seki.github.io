@@ -21,11 +21,13 @@ title: Shichao Song (宋世超)
 <p>
     Find me: 
     <a href='mailto:song.shichao@outlook.com'>E-mail</a> /
+    <a href='https://twitter.com/Ki_Seki_here'>Twitter</a> /
+    <a href='https://www.linkedin.com/in/song-sc/'>LinkedIn</a> /
     <a href='https://scholar.google.com/citations?user=91cfp3wAAAAJ'>Google Scholar</a> /
     <a href='https://www.semanticscholar.org/author/Shichao-Song/2268434524'>Semantic Scholar</a> /
     <a href='https://www.prophy.science/author/100188805/Shichao-Song'>Prophy</a> /
     <a href='https://github.com/Ki-Seki'>GitHub</a> /
-    <a href='https://twitter.com/Ki_Seki_here'>Twitter</a> /
+    <a href='https://huggingface.co/Ki-Seki'>HuggingFace</a> /
     <a href='https://songsc.atomgit.net/us/'>💘</a>
 </p>
 
