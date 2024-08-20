@@ -161,7 +161,7 @@ $^†$ Corresponding Author
 
 <footer style='text-align:center; font-size:0.85em; line-height: 1.35em'>
     Special thanks to Tony Blundell for the <a href='https://github.com/tonyblundell/pandoc-bootstrap-template'>template</a><br>
-    Last update: 2024.07 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
+    Last update: 2024.08 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
     &copy; 2023-2024 Shichao Song
 </footer>
 <br>
