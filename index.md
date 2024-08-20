@@ -15,7 +15,7 @@ title: Shichao Song (宋世超)
     I am Shichao Song, a second-year PhD student at <a href='https://en.ruc.edu.cn/'>Renmin University of China</a>, Beijing. My supervisor is Prof. Xun Liang. I collaborate closely with the Large Language Model Center at the <a href='https://www.iaar.ac.cn/'>Institute for Advanced Algorithms Research</a> (IAAR), Shanghai, particularly with senior researcher Zhiyu Li. 
 </p>
 <p>
-    My current research focuses on large language models, specifically on two aspects: internal consistency mining (refer to <a href='https://arxiv.org/abs/2407.14507'>ICSFSurvey</a>) and reliable evaluation for LLMs (such as <a href='https://arxiv.org/abs/2311.15296'>UHGEval</a> and <a href='https://arxiv.org/abs/2405.11874'>xFinder</a>). Previously, my research has covered topics like route optimization, recommender systems, and graph neural networks.
+    My current research focuses on large language models, specifically on two aspects: <b>internal consistency mining</b> (which can be understood as hallucination mitigation and reasoning enhancement, as discussed in <a href='https://arxiv.org/abs/2407.14507'>ICSFSurvey</a>) and <b>reliable evaluation for LLMs</b> (such as <a href='https://arxiv.org/abs/2311.15296'>UHGEval</a>, <a href='https://arxiv.org/abs/2405.11874'>xFinder</a>, and <a href='https://github.com/Ki-Seki/SituEval'>SituEval</a>). Previously, my research has covered topics like route optimization, recommender systems, and graph neural networks.
 </p>
 
 <p>
@@ -27,7 +27,7 @@ title: Shichao Song (宋世超)
     <a href='https://www.semanticscholar.org/author/Shichao-Song/2268434524'>Semantic Scholar</a> /
     <a href='https://www.prophy.science/author/100188805/Shichao-Song'>Prophy</a> /
     <a href='https://github.com/Ki-Seki'>GitHub</a> /
-    <a href='https://huggingface.co/Ki-Seki'>HuggingFace</a> /
+    <a href='https://huggingface.co/Ki-Seki'>Hugging Face</a> /
     <a href='https://songsc.atomgit.net/us/'>💘</a>
 </p>
 
@@ -55,22 +55,24 @@ $^†$ Corresponding Author
 
 - **UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**  
     Xun Liang$^*$, **Shichao Song$^*$**, Simin Niu$^*$, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang, Yezhaohui Wang, Dawei He, Peng Cheng, Zhonghao Wang, Haiying Deng  
-    *ACL*, 2024. 
+    *ACL*, 2024.
+    [ACL Anthology](https://aclanthology.org/2024.acl-long.288/) /
     [arXiv](https://arxiv.org/abs/2311.15296) /
     [GitHub](https://github.com/IAAR-Shanghai/UHGEval) /
-    [Dataset](https://github.com/IAAR-Shanghai/UHGEval/blob/main/data/Xinhua/XinhuaHallucinations.json) /
+    [UHGEvalDataset](https://huggingface.co/datasets/Ki-Seki/UHGEvalDataset) /
     [Dataset Creation](https://github.com/IAAR-Shanghai/UHGEval-dataset)
 
 - **Controlled Text Generation for Large Language Model with Dynamic Attribute Graphs**  
     Xun Liang$^*$, Hanyu Wang$^*$, **Shichao Song$^*$**, Mengting Hu, Xunzhi Wang, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang  
-    *Findings of ACL*, 2024. 
+    *Findings of ACL*, 2024.
+    [ACL Anthology](https://aclanthology.org/2024.findings-acl.345/) /
     [arXiv](https://arxiv.org/abs/2402.11218) /
     [GitHub](https://github.com/IAAR-Shanghai/DATG)
 
 - **When Sparse Graph Representation Learning Falls into Domain Shift: Data Augmentation for Cross-Domain Graph Meta-Learning (Student Abstract)**  
     Simin Niu, Xun Liang, Sensen Zhang, **Shichao Song**, Xuan Zhang, Xiaoping Zhou  
     *AAAI*, 2024.
-    [Conference](https://ojs.aaai.org/index.php/AAAI/article/view/30489)
+    [AAAI Press](https://ojs.aaai.org/index.php/AAAI/article/view/30489)
 
 ### <font color="lightgray">H3</font> Preprints
 
@@ -79,7 +81,7 @@ $^†$ Corresponding Author
     *arXiv*, 2024.
     [arXiv](https://arxiv.org/abs/2407.14507) /
     [GitHub](https://github.com/IAAR-Shanghai/ICSFSurvey) /
-    [HuggingFace](https://huggingface.co/papers/2407.14507) /
+    [Hugging Face](https://huggingface.co/papers/2407.14507) /
     [Paper List](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg)
 
 - **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
@@ -114,7 +116,7 @@ $^†$ Corresponding Author
 
 - **Grimoire is All You Need for Enhancing Large Language Models**  
     Ding Chen$^*$, **Shichao Song$^*$**, Qingchen Yu, Zhiyu Li$^†$, Wenjin Wang, Feiyu Xiong, Bo Tang  
-    *arXiv*, 2024. 
+    *arXiv*, 2024.
     [arXiv](https://arxiv.org/abs/2401.03385) /
     [GitHub](https://github.com/IAAR-Shanghai/Grimoire)
 
@@ -122,7 +124,7 @@ $^†$ Corresponding Author
 
 - **Research on Cold-Start of Product Recommendation with Graph Neural Network (In Chinese, 基于图神经网络的商品推荐冷启动研究)**  
     **Shichao Song**  
-    *Undergraduate thesis*, 2023. Outstanding Undergraduate Thesis. 
+    *Undergraduate thesis*, 2023. Outstanding Undergraduate Thesis.
     [PDF](./assets/GNNRSThesis.pdf) /
     [GitHub](https://github.com/Ki-Seki/KGCN-pytorch-updated/tree/ugt-only)
 
