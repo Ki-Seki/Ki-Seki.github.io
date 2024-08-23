@@ -76,6 +76,15 @@ $^†$ Corresponding Author
 
 ### <font color="lightgray">H3</font> Preprints
 
+- **Controllable Text Generation for Large Language Models: A Survey**  
+    Xun Liang$^*$, Hanyu Wang$^*$, Yezhaohui Wang$^*$, **Shichao Song**, Jiawei Yang, Simin Niu, Jie Hu, Dan Liu, Shunyu Yao, Feiyu Xiong, Zhiyu Li$^†$  
+    *arXiv*, 2024.
+    [arXiv](https://arxiv.org/abs/2408.12599) /
+    [GitHub](https://github.com/IAAR-Shanghai/CTGSurvey) /
+    [Hugging Face](https://huggingface.co/papers/2408.12599) /
+    [Paper List](https://www.yuque.com/matong-an7ob/qf04ed/yzs6n19swv6pipri) /
+    [PDF in Chinese](https://github.com/IAAR-Shanghai/CTGSurvey/blob/main/CTG_Survey_Chinese.pdf)
+
 - **Internal Consistency and Self-Feedback in Large Language Models: A Survey**  
     Xun Liang$^*$, **Shichao Song$^*$**, Zifan Zheng$^*$, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Feiyu Xiong, Zhiyu Li$^†$  
     *arXiv*, 2024.
