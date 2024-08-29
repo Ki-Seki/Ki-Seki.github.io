@@ -82,16 +82,14 @@ $^†$ Corresponding Author
     [arXiv](https://arxiv.org/abs/2408.12599) /
     [GitHub](https://github.com/IAAR-Shanghai/CTGSurvey) /
     [Hugging Face](https://huggingface.co/papers/2408.12599) /
-    [Paper List](https://www.yuque.com/matong-an7ob/qf04ed/yzs6n19swv6pipri) /
     [PDF in Chinese](https://github.com/IAAR-Shanghai/CTGSurvey/blob/main/CTG_Survey_Chinese.pdf)
 
 - **Internal Consistency and Self-Feedback in Large Language Models: A Survey**  
-    Xun Liang$^*$, **Shichao Song$^*$**, Zifan Zheng$^*$, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Feiyu Xiong, Zhiyu Li$^†$  
+    Xun Liang$^*$, **Shichao Song$^*$**, Zifan Zheng$^*$, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Peng Cheng, Zhonghao Wang, Feiyu Xiong, Zhiyu Li$^†$  
     *arXiv*, 2024.
     [arXiv](https://arxiv.org/abs/2407.14507) /
     [GitHub](https://github.com/IAAR-Shanghai/ICSFSurvey) /
-    [Hugging Face](https://huggingface.co/papers/2407.14507) /
-    [Paper List](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg)
+    [Hugging Face](https://huggingface.co/papers/2407.14507)
 
 - **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
     Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, **Shichao Song**, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong$^†$, Linpeng Tang$^†$, Weinan E$^†$  
