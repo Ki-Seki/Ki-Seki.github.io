@@ -107,8 +107,7 @@ $^†$ Corresponding Author
     *arXiv*, 2024.07.
     [arXiv](https://arxiv.org/abs/2407.14507) /
     [GitHub](https://github.com/IAAR-Shanghai/ICSFSurvey) /
-    [Hugging Face](https://huggingface.co/papers/2407.14507) /
-    <a href="https://huggingface.co/papers/2407.14507"><img src="https://img.shields.io/badge/-%F0%9F%A4%97%20Page-orange?style=flat"/></a>
+    [Hugging Face](https://huggingface.co/papers/2407.14507)
 
 - **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
     Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, **Shichao Song**, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong$^†$, Linpeng Tang$^†$, Weinan E$^†$  
