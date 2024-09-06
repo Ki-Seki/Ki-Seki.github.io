@@ -1,5 +1,7 @@
 # ki-seki.github.io
 
+The Page content is stored in [index.md](./index.md)
+
 ## Usage
 
 ### Deploy by GitHub Pages
