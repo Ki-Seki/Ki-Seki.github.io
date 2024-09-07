@@ -7,9 +7,9 @@ title: Shichao Song (宋世超)
 <p style="font-family: 'Times New Roman', KaiTi; font-size: 1.8em; line-height: 1.95em">
     <big><strong>Shichao Song</strong></big><br>
     <big><strong>宋世超</strong></big>
-</p><br>
+</p>
 
-<img src='./assets/avatar.jpg' alt='avatar' width='160px'><br><br>
+<img src='./assets/avatar.jpg' alt='avatar' width='160px'><br>
 
 <p>
     I am Shichao Song, a second-year PhD student at <a href='https://en.ruc.edu.cn/'>Renmin University of China</a>, Beijing. My supervisor is Prof. Xun Liang. I collaborate closely with the Large Language Model Center at the <a href='https://www.iaar.ac.cn/'>Institute for Advanced Algorithms Research</a> (IAAR), Shanghai, particularly with senior researcher Dr. Zhiyu Li. 
