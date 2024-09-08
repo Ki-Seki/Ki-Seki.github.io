@@ -12,10 +12,7 @@ title: Shichao Song (宋世超)
 <img src='./assets/avatar.jpg' alt='avatar' width='160px'><br>
 
 <p>
-    I am Shichao Song, a second-year PhD student at <a href='https://en.ruc.edu.cn/'>Renmin University of China</a>, Beijing. My supervisor is Prof. Xun Liang. I collaborate closely with the Large Language Model Center at the <a href='https://www.iaar.ac.cn/'>Institute for Advanced Algorithms Research</a> (IAAR), Shanghai, particularly with senior researcher Dr. Zhiyu Li. 
-</p>
-<p>
-    My current research focuses on large language models, specifically on two aspects: <b>internal consistency mining</b> (which can be understood as hallucination mitigation and reasoning enhancement, as discussed in <a href='https://arxiv.org/abs/2407.14507'>ICSFSurvey</a>) and <b>reliable evaluation for LLMs</b> (such as <a href='https://arxiv.org/abs/2311.15296'>UHGEval</a>, <a href='https://arxiv.org/abs/2405.11874'>xFinder</a>, and <a href='https://github.com/Ki-Seki/SituEval'>SituEval</a>). Previously, my research has covered topics like route optimization, recommender systems, and graph neural networks.
+    I am Shichao Song, a second-year PhD student. My current research focuses on large language models, specifically on two aspects: <b>internal consistency mining</b> (which can be understood as hallucination mitigation and reasoning enhancement, as discussed in <a href='https://arxiv.org/abs/2407.14507'>ICSFSurvey</a>) and <b>reliable evaluation for LLMs</b> (such as <a href='https://arxiv.org/abs/2311.15296'>UHGEval</a>, <a href='https://arxiv.org/abs/2405.11874'>xFinder</a>, and <a href='https://github.com/Ki-Seki/SituEval'>SituEval</a>). Previously, my research has covered topics like route optimization, recommender systems, and graph neural networks.
 </p>
 
 <p>
