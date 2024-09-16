@@ -60,6 +60,12 @@ $^†$ Corresponding Author
 
 ### <font color="lightgray">H3</font> Peer Reviewed
 
+- **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
+    Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, **Shichao Song**, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong$^†$, Linpeng Tang$^†$, Weinan E$^†$  
+    *J. Mach. Learn.*, 2024.09.
+    [Global Science Press](https://doi.org/10.4208/jml.240708) /
+    [arXiv](https://arxiv.org/abs/2407.01178)
+
 - **UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**  
     Xun Liang$^*$, **Shichao Song$^*$**, Simin Niu$^*$, Zhiyu Li$^†$, Feiyu Xiong, Bo Tang, Yezhaohui Wang, Dawei He, Peng Cheng, Zhonghao Wang, Haiying Deng  
     *ACL*, 2024.08.
@@ -104,11 +110,6 @@ $^†$ Corresponding Author
     [arXiv](https://arxiv.org/abs/2407.14507) /
     [GitHub](https://github.com/IAAR-Shanghai/ICSFSurvey) /
     [Hugging Face](https://huggingface.co/papers/2407.14507)
-
-- **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
-    Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, **Shichao Song**, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong$^†$, Linpeng Tang$^†$, Weinan E$^†$  
-    *arXiv*, 2024.07.
-    [arXiv](https://arxiv.org/abs/2407.01178)
 
 - **HRDE: Retrieval-Augmented Large Language Models for Chinese Health Rumor Detection and Explainability**  
     Yanfang Chen$^*$, Ding Chen$^*$, **Shichao Song**, Simin Niu, Hanyu Wang, Zeyun Tang, Feiyu Xiong, Zhiyu Li$^†$  
