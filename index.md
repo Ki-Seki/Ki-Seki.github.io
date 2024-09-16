@@ -61,7 +61,7 @@ $^†$ Corresponding Author
 ### <font color="lightgray">H3</font> Peer Reviewed
 
 - **$\text{Memory}^3$: Language Modeling with Explicit Memory**  
-    Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, **Shichao Song**, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong$^†$, Linpeng Tang$^†$, Weinan E$^†$  
+    Hongkang Yang$^†$, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, **Shichao Song**, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong, Linpeng Tang, Weinan E  
     *J. Mach. Learn.*, 2024.09.
     [Global Science Press](https://doi.org/10.4208/jml.240708) /
     [arXiv](https://arxiv.org/abs/2407.01178)
