@@ -83,7 +83,7 @@ $^†$ Corresponding Author
     [GitHub](https://github.com/IAAR-Shanghai/DATG)
 
 - **When Sparse Graph Representation Learning Falls into Domain Shift: Data Augmentation for Cross-Domain Graph Meta-Learning (Student Abstract)**  
-    Simin Niu, Xun Liang, Sensen Zhang, **Shichao Song**, Xuan Zhang, Xiaoping Zhou  
+    Simin Niu, Xun Liang$^†$, Sensen Zhang, **Shichao Song**, Xuan Zhang, Xiaoping Zhou  
     *AAAI*, 2024.03.
     [AAAI Press](https://ojs.aaai.org/index.php/AAAI/article/view/30489)
 
