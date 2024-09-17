@@ -25,6 +25,7 @@ title: Shichao Song (宋世超)
     <a href='https://www.prophy.science/author/100188805/Shichao-Song'>Prophy</a> /
     <a href='https://github.com/Ki-Seki'>GitHub</a> /
     <a href='https://huggingface.co/Ki-Seki'>Hugging Face</a>
+    <a href='https://songsc.atomgit.net/us/'>💘</a>
 </p>
 
 ------
