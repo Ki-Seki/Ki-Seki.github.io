@@ -106,7 +106,7 @@ $^†$ Corresponding Author
     [PDF in Chinese](https://github.com/IAAR-Shanghai/CTGSurvey/blob/main/CTG_Survey_Chinese.pdf)
 
 - **Internal Consistency and Self-Feedback in Large Language Models: A Survey**  
-    Xun Liang$^*$, **Shichao Song$^*$**, Zifan Zheng$^*$, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Peng Cheng, Zhonghao Wang, Feiyu Xiong, Zhiyu Li$^†$  
+    Xun Liang$^*$, **Shichao Song$^*$**, Zifan Zheng$^*$, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Yi Wang, Zhonghao Wang, Feiyu Xiong, Zhiyu Li$^†$  
     *arXiv*, 2024.07.
     [arXiv](https://arxiv.org/abs/2407.14507) /
     [GitHub](https://github.com/IAAR-Shanghai/ICSFSurvey) /
