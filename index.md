@@ -52,7 +52,7 @@ title: Shichao Song (宋世超)
 - **Institute for Advanced Algorithms Research, Shanghai**  
     Research Intern at the Large Language Model Center  
     Supervised by Dr. **Zhiyu Li**  
-    2023.09 - Present
+    2023.09 - 2024.09
 
 ## <font color="lightgray">H2</font> Researches
 
@@ -91,7 +91,7 @@ $^†$ Corresponding Author
 ### <font color="lightgray">H3</font> Preprints
 
 - **Attention Heads of Large Language Models: A Survey**  
-    Zifan Zheng$^*$, Yezhaohui Wang$^*$, Yuxin Huang$^*$, **Shichao Song**, Bo Tang, Feiyu Xiong, Zhiyu Li$^†$  
+    Zifan Zheng$^*$, Yezhaohui Wang$^*$, Yuxin Huang$^*$, **Shichao Song**, Mingchuan Yang, Bo Tang, Feiyu Xiong, Zhiyu Li$^†$  
     *arXiv*, 2024.09.
     [arXiv](https://arxiv.org/abs/2409.03752) /
     [GitHub](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) /
