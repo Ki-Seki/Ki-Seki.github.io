@@ -43,11 +43,7 @@ title: Shichao Song (宋世超)
     GPA: 4.05/5.0, Top 2%  
     2019.09 - 2023.06  
 
-## <font color="lightgray">H2</font> Experience
-
-- **AI TIME**  
-    Volunteer in Academic Coordination  
-    2024.05 - Present
+## <font color="lightgray">H2</font> Work Experience
 
 - **Institute for Advanced Algorithms Research, Shanghai**  
     Research Intern at the Large Language Model Center  
@@ -179,6 +175,11 @@ $^†$ Corresponding Author
 
 - **National Encouragement Scholarship** (Rank: Top 5%)  
     Henan University of Economics and Law, 2020.11
+
+## <font color="lightgray">H2</font> Services
+
+- Reviewer at ICLR'25
+- Volunteer at AI TIME
 
 ------
 
