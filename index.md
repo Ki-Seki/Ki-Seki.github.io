@@ -69,6 +69,7 @@ $^†$ Corresponding Author
     [ACL Anthology](https://aclanthology.org/2024.acl-long.288/) /
     [arXiv](https://arxiv.org/abs/2311.15296) /
     [GitHub](https://github.com/IAAR-Shanghai/UHGEval) /
+    [Eval Suite](https://pypi.org/project/eval-suite/) /
     [UHGEvalDataset](https://huggingface.co/datasets/Ki-Seki/UHGEvalDataset) /
     [Dataset Creation](https://github.com/IAAR-Shanghai/UHGEval-dataset)
 
@@ -85,6 +86,13 @@ $^†$ Corresponding Author
     [AAAI Press](https://ojs.aaai.org/index.php/AAAI/article/view/30489)
 
 ### <font color="lightgray">H3</font> Preprints
+
+- **TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**  
+    Qingchen Yu$^*$, **Shichao Song$^*$**, Ke Fang$^*$, Yunfeng Shi, Zifan Zheng, Hanyu Wang, Simin Niu, Zhiyu Li$^†$  
+    *arXiv*, 2024.10.
+    [arXiv](https://arxiv.org/abs/2410.05262) /
+    [GitHub](https://github.com/mazzzystar/TurtleBench) /
+    [TurtleBench1.5k](https://huggingface.co/datasets/Duguce/TurtleBench1.5k)
 
 - **Attention Heads of Large Language Models: A Survey**  
     Zifan Zheng$^*$, Yezhaohui Wang$^*$, Yuxin Huang$^*$, **Shichao Song**, Mingchuan Yang, Bo Tang, Feiyu Xiong, Zhiyu Li$^†$  
@@ -185,7 +193,7 @@ $^†$ Corresponding Author
 
 <footer style='text-align:center; font-size:0.85em; line-height: 1.35em'>
     Special thanks to Tony Blundell for the <a href='https://github.com/tonyblundell/pandoc-bootstrap-template'>template</a><br>
-    Last update: 2024.09 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
+    Last update: 2024.10 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
     &copy; 2023-2024 Shichao Song
 </footer>
 <br>
