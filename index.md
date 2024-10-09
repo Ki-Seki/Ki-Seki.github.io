@@ -134,7 +134,7 @@ $^†$ Corresponding Author
     *arXiv*, 2024.05.
     [arXiv](https://arxiv.org/abs/2405.11874) /
     [GitHub](https://github.com/IAAR-Shanghai/xFinder) /
-    [HuggingFace](https://huggingface.co/collections/IAAR-Shanghai/xfinder-664b7b21e94e9a93f25a8412)
+    [Hugging Face](https://huggingface.co/collections/IAAR-Shanghai/xfinder-664b7b21e94e9a93f25a8412)
 
 - **Fake Artificial Intelligence Generated Contents (FAIGC): A Survey of Theories, Detection Methods, and Opportunities**  
     Xiaomin Yu$^*$, Yezhaohui Wang$^*$, Yanfang Chen$^†$, Zhen Tao, Dinghao Xi, **Shichao Song**, Simin Niu, Zhiyu Li  
@@ -186,7 +186,7 @@ $^†$ Corresponding Author
 
 ## <font color="lightgray">H2</font> Services
 
-- Reviewer at ICLR'25
+- Reviewer at ICLR'25, ACM TIST
 - Volunteer at AI TIME
 
 ------
