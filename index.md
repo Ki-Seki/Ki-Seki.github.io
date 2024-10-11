@@ -186,7 +186,7 @@ $^†$ Corresponding Author
 
 ## <font color="lightgray">H2</font> Services
 
-- Reviewer at ICLR'25, ACM TIST
+- Reviewer for ICLR'25, ACM TIST
 - Volunteer at AI TIME
 
 ------
