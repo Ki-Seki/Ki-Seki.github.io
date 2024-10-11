@@ -48,7 +48,7 @@ title: Shichao Song (宋世超)
 - **Institute for Advanced Algorithms Research, Shanghai**  
     Research Intern at the Large Language Model Center  
     Supervised by Dr. **Zhiyu Li**  
-    2023.09 - 2024.09
+    2023.09 - Present
 
 ## <font color="lightgray">H2</font> Researches
 
