@@ -16,7 +16,7 @@ title: Shichao Song (宋世超)
 </p>
 
 <p>
-    Find me: 
+    More: 
     <a href='mailto:song.shichao@outlook.com'>E-mail</a> /
     <a href='https://twitter.com/Ki_Seki_here'>X</a> /
     <a href='https://www.linkedin.com/in/song-sc/'>LinkedIn</a> /
@@ -25,6 +25,7 @@ title: Shichao Song (宋世超)
     <a href='https://www.prophy.science/author/100188805/Shichao-Song'>Prophy</a> /
     <a href='https://github.com/Ki-Seki'>GitHub</a> /
     <a href='https://huggingface.co/Ki-Seki'>Hugging Face</a> /
+    <a href='./assets/Resume-241016.pdf'>CV</a> /
     <a href='https://songsc.atomgit.net/us/'>💘</a>
 </p>
 
