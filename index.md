@@ -17,10 +17,10 @@ title: Shichao Song (宋世超)
 
 <p>
     More: 
-    <a href='mailto:song.shichao@outlook.com'>E-mail</a> /
+    <a href='mailto:songsc.hello@gmail.com'>E-mail</a> /
     <a href='https://twitter.com/Ki_Seki_here'>X</a> /
     <a href='https://www.linkedin.com/in/song-sc/'>LinkedIn</a> /
-    <a href='https://scholar.google.com/citations?user=91cfp3wAAAAJ'>Google Scholar</a> /
+    <a href='https://scholar.google.com/citations?user=6t4_yXMAAAAJ'>Google Scholar</a> /
     <a href='https://www.semanticscholar.org/author/Shichao-Song/2268434524'>Semantic Scholar</a> /
     <a href='https://www.prophy.science/author/100188805/Shichao-Song'>Prophy</a> /
     <a href='https://github.com/Ki-Seki'>GitHub</a> /
@@ -179,6 +179,9 @@ $^†$ Corresponding Author
 
 ## <font color="lightgray">H2</font> Selected Awards and Honors
 
+- **First-Class Academic Scholarship for Doctoral Students**  
+    Renmin University of China, 2024.11
+
 - **Second-Class Academic Scholarship for Doctoral Students**  
     Renmin University of China, 2023.11
 
@@ -187,12 +190,6 @@ $^†$ Corresponding Author
 
 - **National Second Prize in the China Undergraduate Mathematical Contest in Modeling**  
     China Society for Industrial and Applied Mathematics, 2021.11
-
-- **Scored 591/710 in the College English Test Band 6 (CET-6)**  
-    Ministry of Education of the People's Republic of China, 2021.09
-
-- **Scored 607/710 in the College English Test Band 4 (CET-4)**  
-    Ministry of Education of the People's Republic of China, 2020.12
 
 - **National Encouragement Scholarship** (Rank: Top 5%)  
     Henan University of Economics and Law, 2020.11
@@ -205,7 +202,7 @@ $^†$ Corresponding Author
 ------
 
 <footer style='text-align:center; font-size:0.85em; line-height: 1.35em'>
-    Last update: 2024.10 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
+    Last update: 2024.11 | <a href='https://github.com/Ki-Seki/ki-seki.github.io/edit/master/index.md'>Edit this page</a><br>
     &copy; 2023-2024 Shichao Song
 </footer>
 <br>
